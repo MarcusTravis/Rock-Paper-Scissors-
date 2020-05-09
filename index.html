@@ -13,16 +13,18 @@
   <body>
     <h1>Hello, world!</h1>
     <script src="">
-        
-
-
         // 1. Prompt user to enter r, p, or s representing rock, paper, or scissors.
+        var prompted = prompt("Round " + round + "!!!Type r, p, or s to play!!!");
         
         // 2. Computer chooses a random value in a list of r, p, or s.
+        var computerChoices = ["r", "p", "s",];
+        var computerChoices = 
+            computerChoices[Math.floor(Math.random() * computerChoices.length)];
         
         // 3. We determine if the user wins or not.
         
         //    * If user picks rock and if computer picks scissors then user wins.
+        var humanChoice = prompted.toLowerCase();
         
         //    * If user picks rock and if computer picks paper then user loses.
         
