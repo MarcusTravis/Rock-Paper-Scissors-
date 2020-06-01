@@ -26,7 +26,7 @@ N/A
 
 ### Installing
 
-N/A
+All you need is internet access and a web browser!
 
 
 ## Running the tests
