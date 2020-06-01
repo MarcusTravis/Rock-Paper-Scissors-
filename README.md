@@ -39,9 +39,9 @@ Run this link in your web browser while connected to the internet to play: https
 
 ## Built With
 
-*Bootstrap<br>
-*HTML<br>
-*JavaScript
+* Bootstrap<br>
+* HTML<br>
+* JavaScript
 
 ## Contributing
 
