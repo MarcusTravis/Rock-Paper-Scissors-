@@ -1,7 +1,7 @@
  
 # Rock-Paper-Scissors!
 
-![GitHub](https://img.shields.io/github/repo-size/MarcusTravis/Rock-Paper-Scissors-?style=plastic) ![GitHub](https://img.shields.io/github/last-commit/MarcusTravis/Rock-Paper-Scissors-?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/MarcusTravis/Rock-Paper-Scissors-?style=plastic) ![GitHub](https://img.shields.io/github/license/MarcusTravis/Rock-Paper-Scissors-?style=plastic) ![GitHub](https://img.shields.io/github/followers/MarcusTravis?style=social)
+![GitHub](https://img.shields.io/github/repo-size/MarcusTravis/Rock-Paper-Scissors-?style=plastic) ![GitHub](https://img.shields.io/github/last-commit/MarcusTravis/Rock-Paper-Scissors-?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/MarcusTravis/Rock-Paper-Scissors-?style=plastic) ![GitHub](https://img.shields.io/github/license/MarcusTravis/Rock-Paper-Scissors-?style=plastic) ![GitHub](https://img.shields.io/github/followers/MarcusTravis?style=social) 
 
 ## Table of Contents
 Play the game through this link here!: https://marcustravis.github.io/Rock-Paper-Scissors-/
