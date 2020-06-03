@@ -57,7 +57,7 @@ Marcus Travis
 
 ## License
 
-N/A
+MIT
 
 ## Acknowledgments
 
